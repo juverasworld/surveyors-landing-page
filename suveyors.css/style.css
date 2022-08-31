@@ -22,10 +22,10 @@
     /* opacity: 0.5 */
 }
 
-body {
+/* body {
 
     /* position: relative; */
-}
+
 
 header {
     display: flex;
@@ -283,7 +283,7 @@ h2 {
 .setImage {
     width: 100%;
     height: 300px;
-    padding-: .5%;
+    padding: .5%;
     /* padding-bottom: .5%; */
 
     transform: scale(.6);
