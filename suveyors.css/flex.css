@@ -1,0 +1,21 @@
+.body{
+    background-color: beige;
+}
+.builder{
+
+}
+.build1{
+    background-color: green;
+    height: 300px;
+    width: 300px;
+}
+.build2{
+    background-color: greenyellow;
+    height: 300px;
+    width: 300px;
+}
+.build3{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+}
